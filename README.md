@@ -1,5 +1,5 @@
  # 💫 About Me:
- # 👋 Hi, I'm Abel!  🔐 Cybersecurity Enthusiast | Ethical Hacking Learner | CTF Player  <🚀 Passionate about cybersecurity, ethical hacking, and penetration testing.  📚 Currently expanding my knowledge in **network security, malware analysis, and digital forensics**.  💡 Exploring **Kali Linux, Wireshark, Metasploit, Burp Suite, and more**. 🎯 Practicing CTFs on platforms like **Hack The Box, TryHackMe, and RootMe**.  
+ # 👋 Hi, I'm Abel!  🔐 Cybersecurity Enthusiast | Ethical Hacking Learner | CTF Player  🚀 Passionate about cybersecurity, ethical hacking, and penetration testing.  📚 Currently expanding my knowledge in **network security, malware analysis, and digital forensics**.  💡 Exploring **Kali Linux, Wireshark, Metasploit, Burp Suite, and more**. 🎯 Practicing CTFs on platforms like **Hack The Box, TryHackMe, and RootMe**.  
 
 
 # 💻 Tech Stack:
